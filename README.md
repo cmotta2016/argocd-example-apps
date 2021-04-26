@@ -1,5 +1,5 @@
 # ArgoCD Example Apps
-[![App Status](https://34.122.5.80/api/badge?name=guestbook&revision=true)](https://34.122.5.80/applications/guestbook)
+[![App Status](https://34.122.5.80/api/badge?name=guestbook&revision=true)](https://34.122.5.80/applications/guestbook)  
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
